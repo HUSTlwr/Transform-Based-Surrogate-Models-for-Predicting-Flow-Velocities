@@ -1,0 +1,19 @@
+﻿Types of indicators,Name of indicators,Indicator value
+Tran,Tran_MSE,0.000275817
+Tran,Tran_RMSE,0.01660773
+Tran,Tran_MAE,0.013298156
+Tran,Tran_MdAE,0.011367756
+Tran,Tran_IQR_MAE,0.011264264
+Tran,Tran_ME,0.060168918
+Tran,Tran_R2,0.087779365
+Tran,Tran_CA,0.310901752
+Tran,Tran_MAPE,40.54782689
+Long,Long_MSE,0.004157226
+Long,Long_RMSE,0.064476551
+Long,Long_MAE,0.054494638
+Long,Long_MdAE,0.050676323
+Long,Long_IQR_MAE,0.050928444
+Long,Long_ME,0.196285486
+Long,Long_R2,-0.040828705
+Long,Long_CA,0.382733965
+Long,Long_MAPE,136.180377
